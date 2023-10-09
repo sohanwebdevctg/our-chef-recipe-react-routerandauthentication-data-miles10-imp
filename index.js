@@ -14,6 +14,12 @@ app.get('/chef', (req, res) => {
   res.send(chef)
 })
 
+app.get('/chef/:id', (req,res) => {
+  const id = parseInt(req.params.id);
+  const chefId = chef.filter(data => data.id === id)
+  console.log(chefId)
+})
+
 app.listen(port, () => {
   console.log(`post is ${port}`)
 })
