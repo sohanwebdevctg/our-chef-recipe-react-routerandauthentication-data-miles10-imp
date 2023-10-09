@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/08/Sirichalerm-Svastivadhana-top-10-chefs-in-thailand-600x300.jpg",
+    "name": "Samantha Wong",
+    "experience": "15 years",
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "description": "Samantha Wong is a renowned Thai chef with 15 years of culinary experience. She has created over 200 delicious Thai recipes that have garnered a loyal following of 15,000 fans. Samantha's cooking is a perfect blend of traditional Thai flavors and modern creativity."
+  },
+  {
+    "id": 2,
+    "image": "https://www.timeoutdubai.com/cloud/timeoutdubai/2021/10/08/Iron-Chef-armani-hashi-1.png",
+    "name": "Napat Srisawat",
+    "experience": "12 years",
+    "number_of_recipes": 180,
+    "likes": 12000,
+    "description": "Napat Srisawat is a talented Thai chef with 12 years of experience in the kitchen. He is known for his extensive collection of 180 Thai recipes that have earned him a fanbase of 12,000 food enthusiasts. Napat's dishes are a delightful fusion of Thai culinary traditions and contemporary flair."
+  },
+  {
+    "id": 3,
+    "image": "https://www.preparedfoods.com/ext/resources/images/2018/09/ChefThaiDang_900.jpg?1538754105",
+    "name": "Pimchanok Prasert",
+    "experience": "10 years",
+    "number_of_recipes": 160,
+    "likes": 9000,
+    "description": "Pimchanok Prasert is a Thai culinary expert with a decade of experience. She has crafted 160 authentic Thai recipes that have received acclaim from 9,000 fans. Pimchanok's cooking showcases the rich heritage of Thai cuisine with a modern twist."
+  },
+  {
+    "id": 4,
+    "image": "https://2.bp.blogspot.com/-8W8Tb_rxrTU/WwqbJwTeEtI/AAAAAAAAuKc/TPl2DJbJQ7AiIM50vDnp2--XE5QGYCqegCLcBGAs/s1600/%2521%2BPhoto%2BHASSE%2BFERROLD%2BThai%2BEmbassy%2Binv%2Bfamous%2BThai%2BChef%2BMcDang%2BAuthentic%2BThai%2BCuisine%2B%2B14%2B%2526%2B15%2BMay%2B2018%2B1a.jpg",
+    "name": "Anuchit Kaewmanee",
+    "experience": "8 years",
+    "number_of_recipes": 140,
+    "likes": 7500,
+    "description": "Anuchit Kaewmanee is a passionate Thai chef with 8 years of experience under his belt. He has curated 140 mouthwatering Thai recipes that have earned him a loyal following of 7,500 food lovers. Anuchit's dishes capture the essence of Thailand's culinary traditions with a contemporary touch."
+  },
+  {
+    "id": 5,
+    "image": "https://d1zzxdyvtq79bu.cloudfront.net/uploads/images/landings/5a/e3/private-chef-coking-in-thailand.jpg",
+    "name": "Siriporn Thongchai",
+    "experience": "7 years",
+    "number_of_recipes": 120,
+    "likes": 6000,
+    "description": "Siriporn Thongchai is a rising star in the Thai culinary world, boasting 7 years of experience. She has created 120 delectable Thai recipes that have won the hearts of 6,000 avid foodies. Siriporn's cooking reflects the vibrant flavors of Thailand with a modern twist."
+  },
+  {
+    "id": 6,
+    "image": "https://mixmag.asia/assets/uploads/images/_twoThirds/Chef-Ton.jpg",
+    "name": "Kritsana Somboon",
+    "experience": "6 years",
+    "number_of_recipes": 100,
+    "likes": 5000,
+    "description": "Kritsana Somboon is a talented Thai chef with 6 years of experience in the kitchen. She is known for her diverse repertoire of 100 Thai recipes that have garnered a following of 5,000 enthusiastic food connoisseurs. Kritsana's dishes are a delightful blend of tradition and innovation."
+  }
+]
