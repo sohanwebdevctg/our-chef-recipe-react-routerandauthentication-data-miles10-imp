@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/7/31/0/FNM_090119-Spaghetti-Bolognese_s4x3.jpg.rend.hgtvcom.616.462.suffix/1564582813805.jpeg",
+    "recipeName": "Spaghetti Bolognese",
+    "ingredients": "Ground beef, Onion, Garlic, Tomato sauce, Spaghetti noodles, Olive oil",
+    "methodOfCooking": ["Heat olive oil"," Add chopped onion", "Cook until golden brown", "Add beef and tomato ", "sauce Simmer", "Serve over spaghetti."]
+  },
+  {
+    "id": 2,
+    "image": "https://b3067249.smushcdn.com/3067249/wp-content/uploads/2016/10/chicken-thai-stir-fry-848x477.jpg?lossy=0&strip=1&webp=1",
+    "recipeName": "Chicken Stir-Fry",
+    "ingredients": "Chicken breast, Broccoli, Bell peppers, Soy sauce, Ginger, Garlic, Cooking oil",
+    "methodOfCooking": ["Cut chicken into pieces","Stir-fry with garlic"," ginger, soy sauce"," Add veggies","Serve hot with rice/noodles."]
+  },
+  {
+    "id": 3,
+    "image": "https://realfood.tesco.com/media/images/1400x919-MargaritaPizza-555a4065-2573-4b41-bcf3-7193cd095d8f-0-1400x919.jpg",
+    "recipeName": "Homemade Pizza",
+    "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Pepperoni, Bell peppers, Onion, Oregano, Olive oil",
+    "methodOfCooking": ["Roll out dough","Add sauce ","cheese, toppings","Bake until golden","Slice and enjoy!"]
+  }
+]
